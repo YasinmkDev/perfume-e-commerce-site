@@ -1,0 +1,6 @@
+{
+  "name": "Automobili Parfums — Haute Parfumerie Sant'Agata",
+  "description": "High-octane luxury fragrance house engineered in Sant'Agata. Monolithic flacons, raw olfactory power, and high perfumery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
